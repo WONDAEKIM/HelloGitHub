@@ -1,3 +1,6 @@
 Hello from South Korea!
 I am not majoring in Computer Science and Engineering but I am taking this course.
 I actually regret that fact since it has too much assignment.
+
+However, this is not the worst subject I am taking this semester.
+The worst is game theory which is too hard.
